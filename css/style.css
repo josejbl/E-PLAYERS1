@@ -318,6 +318,7 @@ img{
 }
 .logo-rodape{
     max-width: 18.75em;
+    justify-content: space-between;
 }
 .links-footer{
     width: 33%;
@@ -343,6 +344,7 @@ img{
     width: 33%;
 }
 .newslatter h2{
+    justify-content: cente;
     font-size: 0.875em;
     margin-bottom: 0.5em;
 }
