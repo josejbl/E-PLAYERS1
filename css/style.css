@@ -188,15 +188,20 @@ img{
     font-size: 1.575em;
     display: flex;
 }
-.games-aovivo, .games-embreve{
+
+.games-embreve{
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
     font-size: 1.575em; 
+    display: flex;
+    justify-content: space-between;
+   
 }
 .games-aovivo h2, .games-embreve h2{
     font-size: 1em;
     text-transform: uppercase;
     color: #fff;
+    
 }
 .linha{
     
@@ -218,10 +223,12 @@ img{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-weight: 400;
+    font-weight: 300;
+    color: #fff;
 }
 .time1 img{
     margin-left: 0.5em;
+    
 }
 .time2 img{
     margin-right: 0.5em;
